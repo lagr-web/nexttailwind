@@ -28,7 +28,7 @@ export default function Home() {
           {data &&
             data.actors.map((item: actor, index: number) => (
 
-              <NinjaCard mdata={item} mindex={index} />
+              <NinjaCard key={"card" + index} mdata={item} mindex={index} />
 
             ))
 

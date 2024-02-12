@@ -1,4 +1,4 @@
-# Next.js 14 with Tailwind CSS
+# Next.js 14 with TypeScript and Tailwind CSS
 
 > Setup  a small project for a Next.js 14 project with Tailwind CSS.
 
